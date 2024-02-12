@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>nomacs</title>
+    <subtitle>nomacs is a free, open source image viewer, which supports multiple platforms</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://nomacs.org/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://nomacs.org"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-12T17:05:37+00:00</updated>
+    <id>https://nomacs.org/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Stefan Fiel</title>
+        <published>2024-02-12T17:05:37+00:00</published>
+        <updated>2024-02-12T17:05:37+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/authors/stefan-fiel/"/>
+        <id>https://nomacs.org/authors/stefan-fiel/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/authors/stefan-fiel/">&lt;p&gt;Creator of &lt;strong&gt;nomacs&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sfiel&quot;&gt;@sfiel&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Markus Diem</title>
+        <published>2024-02-12T16:50:46+00:00</published>
+        <updated>2024-02-12T16:50:46+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/authors/markus-diem/"/>
+        <id>https://nomacs.org/authors/markus-diem/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/authors/markus-diem/">&lt;p&gt;Creator of &lt;strong&gt;nomacs&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;diemmarkus&quot;&gt;@diemmarkus&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Installation</title>
+        <published>2024-02-08T18:39:07+00:00</published>
+        <updated>2024-02-08T18:39:07+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/getting-started/installation/"/>
+        <id>https://nomacs.org/docs/getting-started/installation/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/getting-started/installation/">&lt;p&gt;nomacs – Image Lounge is licensed under the GNU General Public License v3
+© Markus Diem, Stefan Fiel, and Florian Kleber, 2011 – 2020&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;windows-7-8-10&quot;&gt;Windows (7&#x2F;8&#x2F;10)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;latest&#x2F;download&#x2F;nomacs-setup-x64.msi&quot;&gt;installer (64 bit)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;latest&#x2F;download&#x2F;nomacs-setup-x64.exe&quot;&gt;multi-user installer (64 bit)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;latest&#x2F;download&#x2F;nomacs-portable-win.zip&quot;&gt;nomacs portable .zip package (64 bit)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;windows-2000-xp-vista&quot;&gt;Windows (2000&#x2F;XP&#x2F;Vista)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;download&#x2F;2.4.6&#x2F;nomacs-2.4.6-x86-WinXP.zip&quot;&gt;nomacs portable .zip package&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&quot;&gt;Click here for older versions&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;flathub&quot;&gt;Flathub&lt;&#x2F;h2&gt;
+&lt;p&gt;We maintain a &lt;a href=&quot;https:&#x2F;&#x2F;flathub.org&#x2F;apps&#x2F;details&#x2F;org.nomacs.ImageLounge&quot;&gt;flathub&lt;&#x2F;a&gt; app.
+We recommend installing nomacs from there if you want to have the latest version.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ubuntu-and-linux-mint&quot;&gt;Ubuntu and Linux Mint&lt;&#x2F;h2&gt;
+&lt;p&gt;nomacs is available in the “universe” repository of Ubuntu.
+Just install it using your favorite package manager.
+Translations can be added with &lt;code&gt;sudo apt-get install nomacs-l10n&lt;&#x2F;code&gt;.
+Install the heif plugin to load heif images.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;debian-fedora&quot;&gt;Debian&#x2F;Fedora&lt;&#x2F;h2&gt;
+&lt;p&gt;nomacs is included in the official repositories.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;arch-linux&quot;&gt;Arch Linux&lt;&#x2F;h2&gt;
+&lt;p&gt;nomacs is available as &lt;a href=&quot;https:&#x2F;&#x2F;aur.archlinux.org&#x2F;packages&#x2F;nomacs&quot;&gt;an AUR package&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;opensuse&quot;&gt;openSUSE&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;software.opensuse.org&#x2F;download&#x2F;package?project=X11:QtDesktop&amp;amp;package=nomacs&quot;&gt;repositories&lt;&#x2F;a&gt; (Tumbleweed, Factory, 12.1, 11.4)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;freebsd&quot;&gt;FreeBSD&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Update your FreeBSD repository and change directory to &lt;code&gt;&#x2F;usr&#x2F;ports&#x2F;graphics&#x2F;nomacs&lt;&#x2F;code&gt;
+(if your repository directory is the default, otherwise change to the particular directory)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Build and install nomacs by typing:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;shell&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-shell &quot;&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span&gt;make install clean
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;os-2&quot;&gt;OS&#x2F;2&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;ftp:&#x2F;&#x2F;ftp.netlabs.org&#x2F;pub&#x2F;qtapps&#x2F;nomacs-2.4.6-os2.7z&quot;&gt;.7z package&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;other-linux-distribution&quot;&gt;Other Linux distribution&lt;&#x2F;h2&gt;
+&lt;p&gt;If there is no package available for your favorite distribution,
+you can download the &lt;a href=&quot;http:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;latest&quot;&gt;sources&lt;&#x2F;a&gt;
+and compile nomacs according to the compile instructions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;source&quot;&gt;Source&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs.git&quot;&gt;Git repository&lt;&#x2F;a&gt; (containing the source code of nomacs and all dependencies)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;&quot;&gt;Tarball&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;nomacs-uses-these-libraries&quot;&gt;nomacs uses these libraries&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenCV&lt;&#x2F;li&gt;
+&lt;li&gt;Qt&lt;&#x2F;li&gt;
+&lt;li&gt;LibRaw&lt;&#x2F;li&gt;
+&lt;li&gt;Exiv2&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;herbie-diagnostics&quot;&gt;Herbie – Diagnostics&lt;&#x2F;h2&gt;
+&lt;p&gt;Herbie is a small cpu monitoring tool.
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;diemmarkus&#x2F;Herbie&#x2F;releases&#x2F;download&#x2F;0.2&#x2F;herbie-setup.exe&quot;&gt;Download&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>How to Translate Nomacs</title>
+        <published>2024-02-08T17:47:46+00:00</published>
+        <updated>2024-02-08T17:47:46+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/contributing/translation/"/>
+        <id>https://nomacs.org/docs/contributing/translation/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/contributing/translation/">&lt;p&gt;nomacs uses crowdin.net as tool for translations.&lt;&#x2F;p&gt;
+&lt;p&gt;After choosing a language press “Translate” to get to the translation interface
+(if your language is not available, please send us a message).
+It is obligatory to register at crowdin.net.
+Your translation will be submitted immediately and will become available to all users
+at the next day using the menu ?-&amp;gt;”Update translations”.
+First translate “nmc::DkGlobalSettingsWidget” -&amp;gt; “English” to the name of your language
+e.g. for german “English” is translated to “Deutsch”.
+This string will be displayed in the preferences when choosing the languages.&lt;&#x2F;p&gt;
+&lt;p&gt;Sometime the suggestions of crowdin are fine, but often you have to change them.
+You can filter for untranslated strings, or machine translated string.
+Different characters are used within the strings:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;“&amp;amp;”: The ampersand is used as mnemonic in the menu.
+This means it is the shortcut when pressing the alt-modified.
+For example: The “File” menu is translated as “&amp;amp;File”,
+this means the “F” is underlined in the menu and ALT+F can be used as shortcut to access this menu.&lt;&#x2F;li&gt;
+&lt;li&gt;“%1”: This string is always replaced with strings which are needed for a meaningful message.
+In most of the cases these strings are either image names or directories
+e.g. “Could not save: %1″, here %1 will be replaced with the image name.
+Note: due to some reasons we also have to use %1 for the “°” sign like for rotating the image: “9&amp;amp;0%1 Clockwise”&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If the string or its context is unclear,
+you can use the comment field in the web interface for questions and we will try to answer them as fast as possible.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-apply-a-new-translation-on-your-machine&quot;&gt;How to apply  a new Translation on your machine&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;download the language file from crowdin&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;install Qt Creator (pick the open source installer)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;open a command line and cd to the directory with the downloaded translations (*.ts)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Then type (assuming you downloaded the Catalan translation):&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Windows (change the Qt folder accordingly)&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;powershell&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-powershell &quot;&gt;&lt;code class=&quot;language-powershell&quot; data-lang=&quot;powershell&quot;&gt;&lt;span&gt;C:\Qt\Qt5.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;13.0&lt;&#x2F;span&gt;&lt;span&gt;-x64\bin\&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;lrelease.exe&lt;&#x2F;span&gt;&lt;span&gt; nomacs_ca_ES.ts
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Linux&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;shell&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-shell &quot;&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span&gt;lrelease nomacs_ca_ES.ts
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Now you should have a file named &lt;code&gt;nomacs_ca_ES.qm&lt;&#x2F;code&gt; in the same directory.
+Copy this file to the translations folder of nomacs (on windows: &lt;code&gt;C:&#x2F;Program Files&#x2F;nomacs&#x2F;bin&#x2F;translations&lt;&#x2F;code&gt;).&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Introduction</title>
+        <published>2024-02-03T09:54:57+00:00</published>
+        <updated>2024-02-03T09:54:57+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/getting-started/introduction/"/>
+        <id>https://nomacs.org/docs/getting-started/introduction/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/getting-started/introduction/">&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;..&#x2F;home-img.png&quot; alt=&quot;home-img&quot; width=&quot;40%&quot; &gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;nomacs features semi-transparent widgets that display additional information such as thumbnails, metadata or histogram.
+It is able to browse images in zip or MS Office files which can be extracted to a directory.
+Metadata stored with the image can be displayed and you can add notes to images.
+A thumbnail preview of the current folder is included as well as a file explorer panel which allows switching between folders.
+Within a directory you can apply a file filter,
+so that only images are displayed whose filenames have a certain string or match a regular expression.
+Activating the cache allows for instantly switching between images.&lt;&#x2F;p&gt;
+&lt;p&gt;nomacs includes image manipulation methods for adjusting brightness, contrast, saturation, hue, gamma, exposure.
+It has a pseudo color function which allows creating false color images.
+A unique feature of nomacs is the synchronization of multiple instances.
+With this feature you can easily compare images by zooming and&#x2F;or panning
+at the exactly same position or even by overlaying them with different opacity.
+nomacs is licensed under the GNU General Public License v3 and available for Windows, Linux, FreeBSD, Mac, and OS&#x2F;2.
+It is free for private and commercial use. If you want to report any bugs or request new features please use our
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;issues&quot;&gt;tracker&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contributing&quot;&gt;Contributing&lt;&#x2F;h2&gt;
+&lt;p&gt;Find out how to contribute to nomacs. &lt;a href=&quot;..&#x2F;..&#x2F;contributing&#x2F;how-to-contribute&#x2F;&quot;&gt;Contributing →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;help&quot;&gt;Help&lt;&#x2F;h2&gt;
+&lt;p&gt;Get help on nomacs. &lt;a href=&quot;..&#x2F;..&#x2F;help&#x2F;faq&#x2F;&quot;&gt;Help →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Code of Conduct</title>
+        <published>2024-02-03T09:08:13+00:00</published>
+        <updated>2024-02-03T09:08:13+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/contributing/code-of-conduct/"/>
+        <id>https://nomacs.org/docs/contributing/code-of-conduct/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/contributing/code-of-conduct/">&lt;h2 id=&quot;our-pledge&quot;&gt;Our Pledge&lt;&#x2F;h2&gt;
+&lt;p&gt;In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-standards&quot;&gt;Our Standards&lt;&#x2F;h2&gt;
+&lt;p&gt;Examples of behavior that contributes to creating a positive environment include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using welcoming and inclusive language&lt;&#x2F;li&gt;
+&lt;li&gt;Being respectful of differing viewpoints and experiences&lt;&#x2F;li&gt;
+&lt;li&gt;Gracefully accepting constructive criticism&lt;&#x2F;li&gt;
+&lt;li&gt;Focusing on what is best for the community&lt;&#x2F;li&gt;
+&lt;li&gt;Showing empathy towards other community members&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Examples of unacceptable behavior by participants include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The use of sexualized language or imagery and unwelcome sexual attention or advances&lt;&#x2F;li&gt;
+&lt;li&gt;Trolling, insulting&#x2F;derogatory comments, and personal or political attacks&lt;&#x2F;li&gt;
+&lt;li&gt;Public or private harassment&lt;&#x2F;li&gt;
+&lt;li&gt;Publishing others&#x27; private information, such as a physical or electronic address, without explicit permission&lt;&#x2F;li&gt;
+&lt;li&gt;Other conduct which could reasonably be considered inappropriate in a professional setting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;our-responsibilities&quot;&gt;Our Responsibilities&lt;&#x2F;h2&gt;
+&lt;p&gt;Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.&lt;&#x2F;p&gt;
+&lt;p&gt;Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;enforcement&quot;&gt;Enforcement&lt;&#x2F;h2&gt;
+&lt;p&gt;Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at &lt;a href=&quot;https:&#x2F;&#x2F;matrix.to&#x2F;#&#x2F;#nomacs:matrix.org&quot;&gt;https:&#x2F;&#x2F;matrix.to&#x2F;#&#x2F;#nomacs:matrix.org&lt;&#x2F;a&gt;. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.&lt;&#x2F;p&gt;
+&lt;p&gt;Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project&#x27;s leadership.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;attribution&quot;&gt;Attribution&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct is adapted from the &lt;a href=&quot;http:&#x2F;&#x2F;contributor-covenant.org&quot;&gt;Contributor Covenant&lt;&#x2F;a&gt;, version 1.4, available at &lt;a href=&quot;http:&#x2F;&#x2F;contributor-covenant.org&#x2F;version&#x2F;1&#x2F;4&#x2F;&quot;&gt;http:&#x2F;&#x2F;contributor-covenant.org&#x2F;version&#x2F;1&#x2F;4&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>FAQ</title>
+        <published>2021-05-01T19:30:00+00:00</published>
+        <updated>2021-05-01T19:30:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/help/faq/"/>
+        <id>https://nomacs.org/docs/help/faq/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/help/faq/">&lt;h2 id=&quot;what-does-nomacs-mean&quot;&gt;What does nomacs mean?&lt;&#x2F;h2&gt;
+&lt;p&gt;First, when we started with the RAW support,
+the MacBeth color charts mostly did not have the colors expected when we loaded the images in nomacs.
+Second, we solely supported Windows and Ubuntu in the beginning.
+At this point we want to thank all the supporters who translate nomacs or build it on other OS.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;is-it-possible-to-put-the-thumbnails-vertically-at-the-left-edge-of-the-screen&quot;&gt;Is it possible to put the thumbnails vertically at the left edge of the screen?&lt;&#x2F;h2&gt;
+&lt;p&gt;Yes, you can right click on the thumbnails panel and then choose e.g. ‘Show Left’.
+You can even undock the thumbnails if you do not like the nice overlay effect.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;is-it-possible-to-stop-movies-such-as-gif-or-mng&quot;&gt;Is it possible to stop movies such as GIF or MNG?&lt;&#x2F;h2&gt;
+&lt;p&gt;Yes, you can hit pause in the toolbar player or by selecting View &amp;gt; Stop Movie.
+If you then save the image, the currently displayed frame will be written.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-the-synchronization-all-about&quot;&gt;What is the synchronization all about?&lt;&#x2F;h2&gt;
+&lt;p&gt;We are involved in image processing.
+Hence, we often need to compare the same image after different processing stages.
+So we wanted something that does this job faster and easier than Photoshop.
+That was the initial motivation behind nomacs.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-can-i-support-nomacs&quot;&gt;How can I support nomacs?&lt;&#x2F;h2&gt;
+&lt;p&gt;Your support is always appreciated. You can either support us by:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;translating nomacs to your language&lt;&#x2F;li&gt;
+&lt;li&gt;porting nomacs to a system not yet supported (it should compile on every system that is supported by Qt)&lt;&#x2F;li&gt;
+&lt;li&gt;coding (bug fixes &amp;amp; additional features are always welcome)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Please see the &lt;a href=&quot;&#x2F;docs&#x2F;contributing&#x2F;how-to-contribute&quot;&gt;How to Contribute&lt;&#x2F;a&gt; page.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-translate-nomacs&quot;&gt;How to translate nomacs?&lt;&#x2F;h2&gt;
+&lt;p&gt;Here is a short introduction how to translate nomacs to your language.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;does-nomacs-support-windows-xp-and-or-vista&quot;&gt;Does nomacs support Windows XP and&#x2F;or Vista?&lt;&#x2F;h2&gt;
+&lt;p&gt;The answer is yes and no.
+So neither Windows XP nor Vista are supported in future developments since nomacs 3.0.
+However, nomacs 2.4.6 is a pretty stable version which you can use on these operating systems.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-make-an-unattended-installation-of-nomacs&quot;&gt;How to make an unattended installation of nomacs?&lt;&#x2F;h2&gt;
+&lt;p&gt;When using Windows you can make an unattended installation of nomacs:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;powershell&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-powershell &quot;&gt;&lt;code class=&quot;language-powershell&quot; data-lang=&quot;powershell&quot;&gt;&lt;span&gt;nomacs-setup-x64.msi &#x2F;passive
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>How to Contribute</title>
+        <published>2021-05-01T18:10:00+00:00</published>
+        <updated>2021-05-01T18:10:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/contributing/how-to-contribute/"/>
+        <id>https://nomacs.org/docs/contributing/how-to-contribute/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/contributing/how-to-contribute/">&lt;p&gt;The best way to improve nomacs is your contribution.
+You can submit simple changes such as formatting corrections,
+extend manuals and READMEs where appropriate,
+&lt;a href=&quot;https:&#x2F;&#x2F;crowdin.com&#x2F;project&#x2F;nomacs&quot;&gt;translate nomacs&lt;&#x2F;a&gt;,
+fix bugs, or submit new features.&lt;&#x2F;p&gt;
+&lt;p&gt;Make sure to read the &lt;a href=&quot;..&#x2F;code-of-conduct&#x2F;&quot;&gt;Code of Conduct&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;create-an-issue&quot;&gt;Create an issue&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;issues&#x2F;new?template=bug_report.md&quot;&gt;Bug report&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;issues&#x2F;new?template=feature_request.md&quot;&gt;Feature request&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;improve-documentation&quot;&gt;Improve documentation&lt;&#x2F;h2&gt;
+&lt;p&gt;The documentation lives in &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs.github.io&quot;&gt;&lt;code&gt;nomacs.gitbub.io&lt;&#x2F;code&gt; repository&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contribute-code&quot;&gt;Contribute code&lt;&#x2F;h2&gt;
+&lt;p&gt;If you contribute source code, you should fork and then clone nomacs:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;git&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-git &quot;&gt;&lt;code class=&quot;language-git&quot; data-lang=&quot;git&quot;&gt;&lt;span&gt;git clone git@github.com:your-username&#x2F;nomacs.git
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Build nomacs on your machine.&lt;&#x2F;li&gt;
+&lt;li&gt;Make your changes.&lt;&#x2F;li&gt;
+&lt;li&gt;Commit in small chunks (one feature&#x2F;bug fix per commit).&lt;&#x2F;li&gt;
+&lt;li&gt;Push to your fork and submit a pull request.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We will comment on pull requests within one week. Here are some things that increase the chances of your PR being accepted:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write good commit messages.&lt;&#x2F;li&gt;
+&lt;li&gt;Follow our style guide.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t break the &lt;a href=&quot;https:&#x2F;&#x2F;travis-ci.org&#x2F;nomacs&#x2F;nomacs&quot;&gt;Travis&lt;&#x2F;a&gt; build.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;style&quot;&gt;Style&lt;&#x2F;h3&gt;
+&lt;p&gt;nomacs might have a weird coding style at the first glance, however we try to follow at least some rules:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;using namespace&lt;&#x2F;code&gt; is prohibited (even for &lt;code&gt;std&lt;&#x2F;code&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Naming
+&lt;ul&gt;
+&lt;li&gt;Class names start with a capital letter (i.e. &lt;code&gt;DkBaseManipulator&lt;&#x2F;code&gt;).&lt;&#x2F;li&gt;
+&lt;li&gt;Methods start with lowercase (i.e. &lt;code&gt;name()&lt;&#x2F;code&gt;).&lt;&#x2F;li&gt;
+&lt;li&gt;Prefix members with an m (i.e. &lt;code&gt;int mAction = 0&lt;&#x2F;code&gt;).&lt;&#x2F;li&gt;
+&lt;li&gt;Prefix classes with &lt;code&gt;Dk&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;format C++ sources with &lt;code&gt;clang-format -i --style=file your_contribution.cpp&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Encapsulate everything with the namespace &lt;code&gt;nmc&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Right:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;cpp&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-cpp &quot;&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;namespace &lt;&#x2F;span&gt;&lt;span&gt;nmc
+&lt;&#x2F;span&gt;&lt;span&gt;{
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;class &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ebcb8b;&quot;&gt;DllCoreExport&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt; DkBaseManipulator
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;{
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;public&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;DkBaseManipulator&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;(QAction &lt;&#x2F;span&gt;&lt;span&gt;*&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;action &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;);
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;    QString &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;name&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;() &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;const&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;private&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;    QAction &lt;&#x2F;span&gt;&lt;span&gt;*&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;mAction &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Wrong:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;cpp&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-cpp &quot;&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;class &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ebcb8b;&quot;&gt;DllCoreExport&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt; baseManipulator
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;{
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;public&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;baseManipulator&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;(QAction&lt;&#x2F;span&gt;&lt;span&gt;* &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Action &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;);
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;  QString &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;Name&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;() &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;const&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;private&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;  QAction&lt;&#x2F;span&gt;&lt;span&gt;*&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt; action &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+</feed>
